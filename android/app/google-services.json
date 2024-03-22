@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595173636764",
+    "firebase_url": "https://fir-authreactnative-d1d2e-default-rtdb.firebaseio.com",
+    "project_id": "fir-authreactnative-d1d2e",
+    "storage_bucket": "fir-authreactnative-d1d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595173636764:android:a06b691da6f64a2c3d8b59",
+        "android_client_info": {
+          "package_name": "com.twinLeaves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595173636764-ptcnui8viub87754qkve3bhmfcumemh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twinLeaves",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "595173636764-f0o827g6m35os0jpjt1652pj8n7lsqsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkzBCYFkchzCVhfSvQqjIdJCTKUUBYWcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595173636764-f0o827g6m35os0jpjt1652pj8n7lsqsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
